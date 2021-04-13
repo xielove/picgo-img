@@ -1,3 +1,3 @@
 # picgo-img
 
-用户picgo的github图床
+用于picgo的github图床
